@@ -4,92 +4,93 @@
 
 Онлайн ресурси для українців
 
-## Аніме-ресурси
-<Badge type="tip" icon="i-mdi-android" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
-:mdi-android:
-<span class="i-mdi-android"></span>
+## Стрімінг
+
 :::tabs
 
-== Стрімінг
+== Аніме
 
 - [**Watari Anime**](https://watari-anime.com/)
-  - Huge library with Watch Together feature
-  - Less amount of compression compared to other sites that use 3rd party hosts
-  - Has both hardsub and softsub (multilingual)
-- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" /> 🦆
-  - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-  - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
-  - Duck has the highest overall bitrate but may have buffer issue.
-  - Has both hardsub(duck) & softsub(rest)
-  - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge type="info" text="Proxies" link="https://aniwatch.gg/" />
-  - Huge library with Watch Together feature
-  - Re-encodes shows for smaller size with lower overall bitrate.
-  - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
-- [**Animepahe**](https://animepahe.ru/) <Badge type="tip" text="2" link="https://animepahe.com/" /><Badge type="tip" text="3" link="https://animepahe.org" />
-  - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
-  - Uploads **Blu-ray** and **DVD** versions if available
-  - Has a good amount of missing titles
+  - Середня бібліотека аніме
+  - Максимум 720p
+  - Гарний дизайн
+- [**AnimeUA**](https://animeua.club/)
+  - Середня бібліотека аніме
+  - Плеєр Ashdi.vip
+- [**Anitube.in.ua**](https://anitube.in.ua/)
+  - Велика бібліотека аніме
+  - Старий дизайн
+  - Використовує кілька сторонніх плеєрів
+- [**HigoTV**](https://higotv.fun/)
+  - Велика бібліотека аніме
+  - Гарний дизайн
+  - Використовує Discord як сховище серій, lol
+- [**Unimay Media**](https://www.unimay.media/)
+  - Мала бібліотека аніме
+  - Гарний дизайн
+  - Сайт даберів
+  - Дубляж аніме
+  - Автор сайту підтримував з розробкою парсеру під Cloudstream3, раджу
+- [**HentaiUkr**](https://hentaiukr.com/) <Badge type="info" text="Open Source" />
+  - 18+!
+  - Є манґа
 
-== Torrent
+== Азіатське
 
-- [Nyaa](https://nyaa.si/) <Badge type="info" text="2" link="https://nyaa.iss.one/" /><Badge type="info" text="3" link="https://nyaa.iss.ink/" /><Badge type="info" text="Alt" link="https://animetime.cc/" /> 🦆
-- [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
-- [Anidex](https://anidex.info/)
-- [Anirena](https://www.anirena.com/)
-- [Shana Project](https://www.shanaproject.com/) <Badge type="info" text="Tokyo tosho" link="https://www.tokyotosho.info/" />
-- [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
-- [Baka BT](https://bakabt.me/) <Badge type="info" text="Private tracker" />
-- [U2](https://u2.dmhy.org/portal.php) <Badge type="info" text="Private tracker" />
+- [**Bambooua**](https://bambooua.com)
+  - Озвучування дорам і близько азіатського контенту, наприклад аніме
+  - Крутий дизайн
 
-::: tip :bulb: Quick Tips {open}
+== Загальне
 
-1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
-2. [Private Tracker Guide](https://rentry.co/private-trackers)
-3. Recommended torrent client for Android is <Badge type="tip" icon="i-custom-lt" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="tip" icon="i-custom-qb" text="qBittorrent" link="https://www.qbittorrent.org/" /> or <Badge type="tip" icon="i-custom-trans" text="Transmission" link="https://transmissionbt.com/" />
-4. For VPN, use <Badge type="tip" icon="i-custom-mv" text="Mullvad" link="https://mullvad.net/" /> or <Badge type="tip" icon="i-custom-ivpn" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="tip" icon="i-custom-wind" text="Windscribe" link="https://windscribe.com/" />.
-5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
-6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android. 🦆
-
-== Direct Download
-
-- [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [Anime out](https://www.animeout.xyz/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [Judas](https://rentry.org/judas-ddl) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [hi10anime](https://hi10anime.com/) <Badge type="info" text="Direct" /><Badge type="info" text="ad" />
-- [Anime Senpai](https://www.animesenpai4u.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="Mega" /><Badge type="info" text="no ad" />
-- [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /><Badge type="info" text="no ad" />
-- [RIP Crabby Anime](https://ripcrabbyanime.com/) <Badge type="info" text="GDrive" /><Badge type="info" text="no ad" />
-- [JPFiles](https://jpfiles.net/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
-- [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
-- [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
-
-:::tip Downloader {open}
-On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US" />. For PC, use <Badge type="tip" icon="i-custom-idm" text="IDM" link="https://www.internetdownloadmanager.com/" /> or <Badge type="tip" icon="i-custom-jdl" text="JDL" link="https://jdownloader.org/" /> . You can use JDL on Linux & macOS too. Use [**IAS**](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [**this guide**](https://rentry.org/jdownloader2) to debloat JDL.
-
-== IRC
-
-- [**nibl**](https://nibl.co.uk/search)
-  - Server: `irc.rizon.net`
-  - Port: `6697`
-  - Channel: `#nibl`
-- [**subsplease**](https://subsplease.org/xdcc/)
-  - Server: `irc.rizon.net`
-  - Port: `6697`
-  - Channel: `#subsplease`
-- **madokami**
-  - Server: `irc.rizon.net`
-  - Port: `6697`
-  - Channel: `#madokami`
-- [**animk**](https://animk.info/xdcc/)
-  - Server: `irc.xertion.org`
-  - Port: `6697`
-  - Channel: `#MK` or `XDCCLeech`
-- [**XDCC EU**](https://www.xdcc.eu/)
-- [**SunXDCC**](https://sunxdcc.com/)
-- [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
-
-<Button link="/guides/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
-
+- [**Eneyida**](https://eneyida.tv/)
+  - Велика бібліотека медіа (Фільми - +5к, серіали +1.6к)
+  - Норм дизайн
+  - Майже відсутня реклама
+  - Плеєр Ashdi.vip
+- [**KinoTron**](https://kinotron.top) <Badge type="danger" text="Є реклама" />
+  - Велика бібліотека медіа
+  - Плеєр Ashdi.vip
+- [**KinoVezha**](https://kinovezha.com/)
+  - Мала бібліотека медіа
+- [**KlonTV**](https://klon.tv/)
+  - Велика бібліотека медіа
+  - Плеєр Ashdi.vip
+- [**Serialno**](https://serialno.tv/) <Badge type="danger" text="Є реклама" />
+  - Середня бібліотека медіа
+- [**UASerial**](https://uaserial.tv/) <Badge type="danger" text="Є реклама" />
+  - Велика бібліотека медіа
+  - Використовує кілька сторонніх плеєрів
+- [**UASerials**](https://uaserials.pro/)
+  - Велика бібліотека медіа
+- [**UFDUB**](https://ufdub.com/)
+  - Велика бібліотека медіа
+  - Сайт даберів
+- [**Uakino**](https://uakino.club/) <Badge type="danger" text="Є реклама" />
+  - Велика бібліотека медіа
+  - Не дуже зручний
+- [**В Одне Рило**](https://vodnerilo.com/)
+  - Мала бібліотека медіа
+  - Гарний дизайн
+  - Сайт даберів
 :::
+
+## Торрент-трекер
+
+- [**Толока**](https://toloka.to/)
+  - Дуже велика біблиотека всього
+  - Старий дизайн
+  - Потрібна регістрація
+  - Сідування не потрібне (напевно..)
+  - Проблеми з неймінгом епізодів
+- [**Utopia**](https://utp.to/) <Badge type="info" text="Open Source" />
+  - Дуже велика біблиотека медіа (Тільки медіа)
+  - Гарний дизайн
+  - Потрібна регістрація
+  - Сідування потрібне
+  - Нема проблем з неймінгом епізодів, каеф
+
+## Різні посилання
+- [**Fex.net**](https://fex.net/)
+  - Хмара для файлів
+  - Багато реклами
