@@ -7,6 +7,7 @@ export default defineConfig({
   title: "Ukrainian Stuff",
   description: "Сховище всякої інфи для українців",
 
+  base: '/WebUkrainianStuff',
   lastUpdated: true,
   scrollOffset: 'header',
   cleanUrls: true,
