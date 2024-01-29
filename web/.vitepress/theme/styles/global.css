@@ -1,0 +1,63 @@
+:root {
+    --vp-border-radius: 20px;
+
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient( #00bfff 50%, #f7ff00 50%);
+    --vp-home-hero-image-background-image: linear-gradient( #00bfff 60%, #f7ff00 20%);
+    --vp-home-hero-image-filter: blur(40px);
+
+
+    .VPSidebarItem.level-1.is-active > .item > .indicator,
+    .VPSidebarItem.level-2.is-active > .item > .indicator,
+    .VPSidebarItem.level-3.is-active > .item > .indicator,
+    .VPSidebarItem.level-4.is-active > .item > .indicator,
+    .VPSidebarItem.level-5.is-active > .item > .indicator {
+        background-color: var(--vp-c-brand-1);
+        transition-duration: 0.1s;
+        transition-property: opacity;
+    }
+      
+
+    .VPNavBarTitle .title {
+        font-size: 18px;
+        font-weight: 600;
+    }
+  
+    main img {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 24px;
+      margin-bottom: 24px;
+      border-radius: var(--vp-border-radius);
+      box-shadow: 2px 2px 8px 4px var(--vp-c-bg-alt);
+    }
+    
+}
+
+.dark {
+    --vp-c-bg: rgb(26, 26, 26);
+    --vp-c-bg-alt: rgb(23, 23, 23);
+    --vp-c-bg-nav: rgba(23, 23, 23, 0.8);
+    --vp-c-bg-mark: rgb(0, 0, 0);
+    --vp-button-brand-bg: var(--vp-c-brand-dark);
+    --vp-button-alt-bg: #484848;
+    --vp-button-alt-text: #f0eeee;
+    --vp-button-alt-hover-bg: #484848;
+    --vp-button-alt-hover-text: #f0eeee;
+    --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
+    --vp-custom-block-info-border: #3686b1;
+    --vp-custom-block-info-text: #52b0e3;
+    --vp-custom-block-info-text-deep: #00b7ff;
+    --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
+    --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
+    --vp-custom-block-tip-text: rgb(25, 190, 129);
+    --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
+    --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
+    --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
+    --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
+    --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
+    --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
+    --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
+    --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
+    --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
+  }
