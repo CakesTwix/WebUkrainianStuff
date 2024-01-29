@@ -12,14 +12,14 @@ features:
   - title: Вебсайти
     details: Сайти для медіа, торентів, інформації, тощо
     icon: 🌏
-    link: /websites.md
+    link: /pages/websites.md
   - title: Програмне Забезпечення
     details: Програмне забезпечення для кожної операційної системи
     icon: 💾
-    link: /software.md
+    link: /pages/software.md
   - title: Non-Ukrainian
     details: Корисні посилання не з України
     icon: 🗺️
-    link: /nonuk.md
+    link: /pages/nonuk.md
 ---
 
