@@ -95,7 +95,7 @@ export default defineConfig({
   },
 
   editLink: {
-    pattern: 'https://github.com/CakesTwix/WebUkrainianStiff/edit/master/web/:path',
+    pattern: 'https://github.com/CakesTwix/WebUkrainianStuff/edit/main/web/:path',
     text: 'Запропонувати зміни для цієї сторінки',
   },
 
@@ -110,7 +110,7 @@ export default defineConfig({
           { text: "🧩 Додаткове", link: "/pages/addons" },
           { text: "🗺️ Non-Ukrainian", link: "/pages/nonuk" },
           { text: "🖥 Selfhost", link: "/pages/selfhost" },
-          { text: "🗣️ Спільноти", link: "/comms/anime" },
+          { text: "🗣️ Спільноти", link: "/comms/anime/dub" },
           { text: "🗃️ Інше", link: "/pages/misc" },
         ],
       },
@@ -127,17 +127,25 @@ export default defineConfig({
       { text: "🖥 Selfhost", link: "/pages/selfhost" },
       { text: "🗃️ Інше", link: "/pages/misc" },
       {
-        text: "🗣️ Спільноти",
-        collapsed: true,
+        text: "🇯🇵 Аніме",
         items: [
-          { text: "🇯🇵 Аніме", link: "/comms/anime" },
+          { text: "🔊 Дабери", link: "/comms/anime/dub" },
+          { text: "🔇 Саби", link: "/comms/anime/sub" },
+          { text: "📖 Ранобе", link: "/comms/anime/ranobe" },
+        ],
+      },
+      {
+        text: "🗣️ Спільноти",
+        items: [
           { text: "🐘 Mastodon", link: "/comms/mastodon" },
+          { text: "🟢 Matrix", link: "/comms/matrix" },
         ],
       },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/CakesTwix/WebUkrainianStuff' },
+      { icon: 'mastodon', link: 'https://pl.m0e.space/CakesTwix' }
     ]
   }
 })
