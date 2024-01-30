@@ -17,4 +17,4 @@ Matrix — це відкритий протокол для спілкуванн�
 
 ### [**opulus.space**](https://opulus.space/home/)
 
-### [*NL Matrix**](https://mx.noleron.com)
+### [**NL Matrix**](https://mx.noleron.com)
