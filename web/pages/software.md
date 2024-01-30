@@ -8,7 +8,9 @@
 
 ![Title](/pages/android.png)
 
-### Стрімінг
+:::tabs
+
+== Стрімінг
 
 - [**Cloudstream3**](https://vodnerilo.com/) <Badge type="info" text="Open Source" />
   - Підтрімка плагинів ([Українські плагини](https://github.com/CakesTwix/cloudstream-extensions-uk))
@@ -17,9 +19,12 @@
   - Патчінг багатьох застосунків для просмотру медіа
   - Видаляє рекламу
 
-### Аніме
+== Аніме
 - [**Kotatsu**](https://kotatsu.app/) <Badge type="info" text="Open Source" />
   - Читалка манги
   - MD3/MY
-
+- [**Mihon**](https://mihon.app/) <Badge type="info" text="Open Source" />
+  - Багато плагінів
+  - Підтримка синхронізації з AniList, MAL
+  - Збереження манг офлайн
 
