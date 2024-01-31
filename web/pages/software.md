@@ -29,6 +29,13 @@
   - Багато плагінів
   - Підтримка синхронізації з AniList, MAL
   - Збереження манги офлайн
+
+== Інше
+
+- [**scrcpy**](https://github.com/Genymobile/scrcpy) <Badge type="info" text="Open Source" />
+  > Отримання картинки з телефону на комп'ютер і можливість керувати з нього. Буде корисно, якщо екран розбитий, але є **доступ до adb**
+- [**Catima**](https://catima.app/) <Badge type="info" text="Open Source" />
+  > Сховище магазинних карт на кшталт АТБ, Точки, Єви і тд
 :::
 
 ## Комп'ютер (Linux, MacOS, Windows)
