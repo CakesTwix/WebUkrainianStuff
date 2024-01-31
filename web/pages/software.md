@@ -58,6 +58,8 @@
 
 - [**ActivityWatch**](https://activitywatch.net/) <Badge type="info" text="Open Source" /> <Badge type="tip" text="Cross platform" />
   > Орієнтований на конфіденційність, кросплатформенний і є чудовою альтернативою таким сервісам, як RescueTime, ManicTime і WakaTime.
+- [**Obsidian**](https://obsidian.md) <Badge type="danger" text="Proprietary" /> <Badge type="tip" text="Cross platform" />
+  > Obsidian - це приватний і гнучкий застосунок для написання заміток, який підлаштовується під ваш спосіб мислення.
 
 == Інше
 
