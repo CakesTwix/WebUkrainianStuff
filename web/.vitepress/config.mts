@@ -108,7 +108,6 @@ export default defineConfig({
           { text: "💾 Програми", link: "/pages/software" },
           { text: "🔑 Ліцензійне", link: "/pages/license" },
           { text: "🧩 Додаткове", link: "/pages/addons" },
-          { text: "🗺️ Non-Ukrainian", link: "/pages/nonuk" },
           { text: "🖥 Selfhost", link: "/pages/selfhost" },
           { text: "🗣️ Спільноти", link: "/comms/anime/dub" },
           { text: "🗃️ Інше", link: "/pages/misc" },
@@ -123,7 +122,6 @@ export default defineConfig({
       { text: "💾 Програми", link: "/pages/software" },
       { text: "🔑 Ліцензійне", link: "/pages/license" },
       { text: "🧩 Додаткове", link: "/pages/addons" },
-      { text: "🗺️ Non-Ukrainian", link: "/pages/nonuk" },
       { text: "🖥 Selfhost", link: "/pages/selfhost" },
       { text: "🗃️ Інше", link: "/pages/misc" },
       {

@@ -12,14 +12,30 @@ features:
   - title: Вебсайти
     details: Сайти для медіа, торентів, інформації, тощо
     icon: 🌏
-    link: /pages/websites.md
+    link: /pages/websites
   - title: Програмне Забезпечення
     details: Програмне забезпечення для кожної операційної системи
     icon: 💾
-    link: /pages/software.md
-  - title: Non-Ukrainian
-    details: Корисні посилання не з України
-    icon: 🗺️
-    link: /pages/nonuk.md
+    link: /pages/software
+  - title: Ліцензія
+    details: Потрібно підтримувати наших!
+    icon: 🔑
+    link: /pages/license
+  - title: Спільноти
+    details: Цікаві спільноти для українців
+    icon: 🗣️
+    link: /comms/mastodon
+  - title: Selfhost
+    details: Захостимо собі інтернет для своїх!
+    icon: 🖥
+    link: /pages/selfhost
+  - title: Інтернет-радіо 
+    details: Радіостанції від українців
+    icon: 🎧
+    link: /comms/internet-radio
+  - title: Аніме
+    details: Братик...
+    icon: 🇯🇵
+    link: /comms/anime/dub
 ---
 
