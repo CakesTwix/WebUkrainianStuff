@@ -22,3 +22,26 @@ Matrix — це відкритий протокол для спілкуванн�
 ### [**m0e.space**](https://m0e.space/matrix)
   - Вхід лише по інвайтах, але отримати його можна написавши адміну
   - Присутні мости Telegram та IRC
+
+## Клієнти
+:::tip
+Повний список клієнтів тут - https://matrix.org/ecosystem/clients/.
+Також скріншоти можете подивитися там
+:::
+### Веб-версія
+
+- #### [**Element Web**](https://app.element.io/)
+- #### [**Hydrogen**](https://hydrogen.element.io)
+
+### Андроїд
+
+- #### [**Element FDroid**](https://f-droid.org/packages/im.vector.app/)
+- #### [**FluffyChat**](https://f-droid.org/en/packages/chat.fluffy.fluffychat/) <Badge type="tip" text="MD3/MY" />
+
+### PC
+
+- #### [**Element**](https://element.io/download)
+- #### [**FluffyChat**](https://flathub.org/apps/im.fluffychat.Fluffychat) <Badge type="warning" text="Flathub" />
+- #### [**matrix-commander**](https://github.com/8go/matrix-commander) <Badge type="danger" text="CLI" />
+
+
