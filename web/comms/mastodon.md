@@ -53,3 +53,35 @@ Mastodon — це розподілена та федеративна соціа�
 Якщо ви не хочете з якихось причин реєструватися на українських серверах, тоді рекомендую подивитись на список офіційних/рекомендованих серверів від Mastodon, які можна впорядкувати за місцем розташування та уподобаннями.
 
 > [Посилання](https://joinmastodon.org/servers) на список інстансів
+
+## Клієнти
+:::tip
+Повний список клієнтів тут - https://joinmastodon.org/apps.
+Також скріншоти можете подивитися там
+:::
+### Веб-версія
+
+- #### [**Elk**](https://elk.zone) <Badge type="danger" text="X-like" />
+- #### [**Mangane**](https://pl.m0e.space/mangane/) <Badge type="danger" text="X-like" />
+- #### [**htooty**](https://n1k0.github.io/tooty/v2/)
+
+### Андроїд
+
+- #### [**Mastodon FDroid**](https://f-droid.org/en/packages/org.joinmastodon.android/) <Badge type="info" text="Official Client" />
+- #### [**Moshidon FDroid**](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda/) <Badge type="tip" text="MD3/MY" />
+
+### PC
+
+- #### [**Tokodon**](https://apps.kde.org/tokodon/) <Badge type="tip" text="KDE" />
+- #### [**Elk**](https://github.com/elk-zone/elk-native/releases) <Badge type="danger" text="X-like" />
+- #### [**Fedistar**](https://fedistar.net/)
+
+## Корисна інформація
+
+### Українські боти для поширення свого поста
+  > В українському мастодоні є кілька ботів, які при згадці їх, вони роблять репост вашого посту, і за рахунок цього ваш пост побачать більше людей.
+  - @rada@social.net.ua
+  - @ua@soc.ua-fediland.de
+### Статистика користувачів
+  - @uastats@social.noleron.com
+  ![mastodon_uastats](/comms/mastodon_uastats.png)
