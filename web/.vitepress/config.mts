@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 import { emojiRender, defs, movePlugin } from "./configs/emoji";
+import { codeberg } from '../icons'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -145,6 +146,12 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/CakesTwix/WebUkrainianStuff' },
+      {
+        icon: {
+          svg: codeberg
+        },
+        link: 'https://codeberg.org/CakesTwix/WebUkrainianStuff',
+      },
       { icon: 'mastodon', link: 'https://pl.m0e.space/CakesTwix' }
     ]
   }
