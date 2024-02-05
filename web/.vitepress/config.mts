@@ -151,7 +151,7 @@ export default defineConfig({
         icon: {
           svg: codeberg
         },
-        link: 'https://roker2.github.io/BookAboutBuilding/',
+        link: 'https://codeberg.org/CakesTwix/WebUkrainianStuff',
       },
       { icon: 'mastodon', link: 'https://pl.m0e.space/CakesTwix' }
     ]
