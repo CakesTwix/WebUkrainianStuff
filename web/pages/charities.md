@@ -1,4 +1,4 @@
-
+![Title](/pages/charities.jpg)
 
 <!-- toc -->
 
