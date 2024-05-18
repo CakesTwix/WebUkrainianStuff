@@ -15,10 +15,10 @@ export default defineConfig({
 
   head: [
     [
-      'link', 
-      { 
+      'link',
+      {
         rel: 'icon',
-        href: '/ukr_logo.png' 
+        href: '/ukr_logo.png'
       }
     ],
     [
@@ -112,6 +112,7 @@ export default defineConfig({
           { text: "🖥 Selfhost", link: "/pages/selfhost" },
           { text: "🇯🇵 Аніме", link: "/comms/anime/dub" },
           { text: "🗣️ Спільноти", link: "/comms/mastodon" },
+          { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
           { text: "🗃️ Інше", link: "/pages/misc" },
         ],
       },
@@ -125,6 +126,7 @@ export default defineConfig({
       { text: "🔑 Ліцензійне", link: "/pages/license" },
       { text: "🧩 Додаткове", link: "/pages/addons" },
       { text: "🖥 Selfhost", link: "/pages/selfhost" },
+      { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
       { text: "🗃️ Інше", link: "/pages/misc" },
       {
         text: "🇯🇵 Аніме",
