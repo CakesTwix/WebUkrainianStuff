@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
-import { emojiRender, defs, movePlugin } from "./configs/emoji";
 import { codeberg } from '../icons'
 
 // https://vitepress.dev/reference/site-config
@@ -39,9 +38,7 @@ export default defineConfig({
   ],
 
   markdown: {
-    emoji: { defs },
     config(md) {
-      md.use(emojiRender);
       md.use(tabsMarkdownPlugin);
     }
   },
@@ -105,15 +102,16 @@ export default defineConfig({
         text: "Сторінки",
         items: [
           { text: "⚡ Початок", link: "/pages/qs" },
-          { text: "🌏 Сайти", link: "/pages/websites" },
+          // { text: "🌏 Сайти", link: "/pages/websites" },
           { text: "💾 Програми", link: "/pages/software" },
           { text: "🔑 Ліцензійне", link: "/pages/license" },
-          { text: "🧩 Додаткове", link: "/pages/addons" },
+          { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
+          // { text: "🧩 Додаткове", link: "/pages/addons" },
           { text: "🖥 Selfhost", link: "/pages/selfhost" },
           { text: "🇯🇵 Аніме", link: "/comms/anime/dub" },
           { text: "🗣️ Спільноти", link: "/comms/mastodon" },
           { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
-          { text: "🗃️ Інше", link: "/pages/misc" },
+          // { text: "🗃️ Інше", link: "/pages/misc" },
         ],
       },
       { text: "Оновлення", link: "https://github.com/CakesTwix/WebUkrainianStuff/commits/main/" },
@@ -121,13 +119,14 @@ export default defineConfig({
 
     sidebar: [
       { text: "⚡ Початок", link: "/pages/qs" },
-      { text: "🌏 Сайти", link: "/pages/websites" },
+      // { text: "🌏 Сайти", link: "/pages/websites" },
       { text: "💾 Програми", link: "/pages/software" },
       { text: "🔑 Ліцензійне", link: "/pages/license" },
-      { text: "🧩 Додаткове", link: "/pages/addons" },
+      { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
+      // { text: "🧩 Додаткове", link: "/pages/addons" },
       { text: "🖥 Selfhost", link: "/pages/selfhost" },
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
-      { text: "🗃️ Інше", link: "/pages/misc" },
+      // { text: "🗃️ Інше", link: "/pages/misc" },
       {
         text: "🇯🇵 Аніме",
         items: [
