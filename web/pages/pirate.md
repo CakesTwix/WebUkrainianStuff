@@ -12,10 +12,9 @@
 
 == Аніме
 
-- [**Watari Anime**](https://watari-anime.com/)
-  - Середня бібліотека аніме
-  - Максимум 720p
-  - Гарний дизайн
+- [**AnimeON**](https://animeon.club/)
+  - Велика бібліотека аніме
+  - Плеєр Moon та Ashdi.vip
 - [**AnimeUA**](https://animeua.club/)
   - Середня бібліотека аніме
   - Плеєр Ashdi.vip
