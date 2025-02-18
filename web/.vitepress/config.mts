@@ -124,7 +124,15 @@ export default defineConfig({
       { text: "🔑 Ліцензійне", link: "/pages/license" },
       { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
       // { text: "🧩 Додаткове", link: "/pages/addons" },
-      { text: "🖥 Selfhost", link: "/pages/selfhost" },
+      {
+        text: "Selfhost",
+        items: [
+          { text: "🌟 Найкращі під хостінг", link: "/pages/selfhost/" },
+          { text: "🔎 Де шукати ПЗ?", link: "/pages/selfhost/search" },
+          { text: "👾 Альтернативи", link: "/pages/selfhost/alternatives" },
+          { text: "🖥 Залізо", link: "/pages/selfhost/hardware" },
+        ],
+      },
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
       // { text: "🗃️ Інше", link: "/pages/misc" },
       {
