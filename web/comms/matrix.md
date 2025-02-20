@@ -51,7 +51,7 @@ Matrix — це відкритий протокол для спілкуванн�
 ### PC
 
 - #### [**Element**](https://element.io/download)
-- #### [**SchiliChat**](https://schildi.chat/desktop/)
+- #### [**SchildiChat**](https://schildi.chat/desktop/)
 - #### [**FluffyChat**](https://flathub.org/apps/im.fluffychat.Fluffychat) <Badge type="warning" text="Flathub" />
 - #### [**matrix-commander**](https://github.com/8go/matrix-commander) <Badge type="danger" text="CLI" />
 
