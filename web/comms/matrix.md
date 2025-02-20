@@ -40,6 +40,7 @@ Matrix — це відкритий протокол для спілкуванн�
 
 - #### [**Element Web**](https://app.element.io/)
 - #### [**Hydrogen**](https://hydrogen.element.io)
+- #### [**SchildiChat**](https://app.schildi.chat/)
 
 ### Андроїд
 
