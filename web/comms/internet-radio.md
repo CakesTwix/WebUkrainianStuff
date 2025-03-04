@@ -12,7 +12,7 @@
   - Радіо переважно транслює зарубіжну та українську рок-музику
   - Також бувають прямі трансляції з живими ді-джеями
   - Є чат в XMPP
-### [**radio.opulus.space**](https://radio.opulus.space) <Badge type="info" text="Icecast" />
-  > Інтернет-радіо opulus.space.
+### [**radio.raid.army**](https://radio.raid.army) <Badge type="info" text="Icecast" />
+  > Інтернет-радіо 413 ОББС "РЕЙД" Сил Безпілотних Систем
 ### [**miliukhin.xyz**](http://miliukhin.xyz:8000/) <Badge type="info" text="Icecast" />
   > Інтернет-радіо [Олександра Мілюхіна](https://miliukhin.neocities.org/contact/).
