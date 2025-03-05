@@ -24,13 +24,8 @@ Matrix — це відкритий протокол для спілкуванн�
   - [**Element-Web**](https://element-web.matrix.co.ua)
 - Мають свої інстранс у [**Mastodon**](https://mas.matrix.co.ua).
 
-### [**mastodon.vn.ua**](https://mastodon.vn.ua/_matrix/static/)
-  > Mastodon.vn.ua - Український сервер Matrix
-
 ### [**dcomm.net.ua**](https://dcomm.net.ua)
   - Мають інстанси для кількох областей України
-
-### [**opulus.space**](https://opulus.space/home/)
 
 ### [**NL Matrix**](https://mx.noleron.com)
 
@@ -73,5 +68,3 @@ Matrix — це відкритий протокол для спілкуванн�
 - #### [**SchiliChat**](https://schildi.chat/desktop/)
 - #### [**FluffyChat**](https://flathub.org/apps/im.fluffychat.Fluffychat) <Badge type="warning" text="Flathub" />
 - #### [**matrix-commander**](https://github.com/8go/matrix-commander) <Badge type="danger" text="CLI" />
-
-
