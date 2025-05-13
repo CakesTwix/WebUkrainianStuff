@@ -154,7 +154,7 @@ export default defineConfig({
         },
         link: 'https://codeberg.org/CakesTwix/WebUkrainianStuff',
       },
-      { icon: 'mastodon', link: 'https://pl.m0e.space/CakesTwix' }
+      { icon: 'mastodon', link: 'https://shkey.cakestwix.com/@CakesTwix' }
     ]
   }
 })
