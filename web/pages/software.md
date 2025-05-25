@@ -1,4 +1,9 @@
-![Title](/pages/programs.png)
+<Banner
+  text="Програми"
+  image="/pages/programs.png"
+  blur="5px"
+/>
+
 
 # Програми
 
@@ -6,7 +11,11 @@
 
 ## Android
 
-![Title](/pages/android.png)
+<Banner
+  text="Андроїд"
+  image="/pages/android.png"
+  blur="5px"
+/>
 
 :::tabs
 
@@ -40,7 +49,11 @@
 
 ## Комп'ютер (Linux, MacOS, Windows)
 
-![Title](/pages/pc.png)
+<Banner
+  text="Комп'ютер"
+  image="/pages/pc.png"
+  blur="5px"
+/>
 
 :::tabs
 

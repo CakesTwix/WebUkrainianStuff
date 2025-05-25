@@ -8,13 +8,18 @@ import imageViewer from 'vitepress-plugin-image-viewer';
 import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
 
+// Custom components
+import Banner from './components/Banner.vue'
+
 import './styles/global.css'
 
 export default {
+  base: '/WebUkrainianStuff/',
   extends: DefaultTheme,
   enhanceApp({ app }) {
     enhanceAppWithTabs(app)
     app.component('vImageViewer', vImageViewer);
+    app.component('Banner', Banner);
   },
 
   setup() {

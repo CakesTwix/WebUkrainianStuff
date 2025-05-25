@@ -1,4 +1,8 @@
-![Title](/comms/xmpp.png)
+<Banner
+  text="XMPP"
+  image="/comms/xmpp.png"
+  blur="5px"
+/>
 
 # XMPP
 

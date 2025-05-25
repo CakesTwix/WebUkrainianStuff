@@ -1,4 +1,8 @@
-![Title](/pages/selfhost.png)
+<Banner
+  text="Власний селфхост"
+  image="/pages/selfhost.png"
+  blur="5px"
+/>
 
 # Selfhost
 

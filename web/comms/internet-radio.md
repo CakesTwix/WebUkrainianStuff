@@ -1,4 +1,8 @@
-![Title](/comms/internet-radio.png)
+<Banner
+  text="Інтернет-Радіо"
+  image="/comms/internet-radio.png"
+  blur="5px"
+/>
 
 # Інтернет-радіо
 

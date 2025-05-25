@@ -1,4 +1,8 @@
-![Title](/comms/ranobe.png)
+<Banner
+  text="Манґа"
+  image="/pages/manga.png"
+  blur="5px"
+/>
 
 # Ранобе
 

@@ -1,4 +1,8 @@
-![Title](/comms/mastodon.png)
+<Banner
+  text="Федиверс"
+  image="/comms/fediverse.png"
+  blur="5px"
+/>
 
 # Mastodon
 

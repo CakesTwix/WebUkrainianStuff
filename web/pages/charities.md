@@ -1,4 +1,8 @@
-![Title](/pages/charities.jpg)
+<Banner
+  text="Допомога Україні"
+  image="/pages/charities.png"
+  blur="5px"
+/>
 
 # Благодійні організації
 

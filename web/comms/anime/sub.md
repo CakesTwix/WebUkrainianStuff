@@ -1,4 +1,8 @@
-![Title](/comms/sub.png)
+<Banner
+  text="Саби"
+  image="/comms/subs.png"
+  blur="5px"
+/>
 
 # Субтитри
 

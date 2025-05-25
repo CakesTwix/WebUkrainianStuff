@@ -1,4 +1,8 @@
-![Title](/pages/license.png)
+<Banner
+  text="Ліцензія"
+  image="/pages/license.png"
+  blur="5px"
+/>
 
 # Ліцензійне
 
@@ -8,7 +12,11 @@
 
 ## Манґа
 
-![Title](/pages/manga.png)
+<Banner
+  text="Манґа"
+  image="/pages/manga.png"
+  blur="5px"
+/>
 
 ### Видавництва
 - [**Nasha Idea**](https://nashaidea.com) (Манґа, Комікси, Книги)

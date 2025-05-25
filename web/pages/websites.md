@@ -1,4 +1,9 @@
 ![Title](/pages/websites.png)
+<Banner
+  text="Fediverse"
+  image="/comms/mastodon.png"
+  blur="5px"
+/>
 
 # Вебсайти
 

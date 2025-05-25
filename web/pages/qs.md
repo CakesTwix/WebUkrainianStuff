@@ -1,4 +1,8 @@
-![Title](/pages/qs.png)
+<Banner
+  text="Новий початок"
+  image="/pages/qs.png"
+  blur="5px"
+/>
 
 ## Суть цього проекту і сайту
 

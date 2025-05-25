@@ -1,4 +1,8 @@
-![Title](/pages/pirate.png)
+<Banner
+  text="Піратське"
+  image="/pages/pirate.png"
+  blur="5px"
+/>
 
 # Пиратське
 

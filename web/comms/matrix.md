@@ -1,4 +1,8 @@
-![Title](/comms/matrix.png)
+<Banner
+  text="Matrix"
+  image="/comms/matrix.png"
+  blur="5px"
+/>
 
 # Matrix
 

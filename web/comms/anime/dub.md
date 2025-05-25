@@ -1,4 +1,8 @@
-![Title](/comms/dub.png)
+<Banner
+  text="Озвучення"
+  image="/comms/dub.png"
+  blur="5px"
+/>
 
 # Дабери
 
