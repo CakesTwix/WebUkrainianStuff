@@ -130,6 +130,7 @@ export default defineConfig({
           { text: "♻️ Альтернативи", link: "/pages/selfhost/alternatives" },
           { text: "🔎 Awesome Selfhost", link: "/pages/selfhost/search" },
           { text: "🏚 Home Assistant", link: "/pages/selfhost/homeassistant" },
+          { text: "📷 Immich", link: "/pages/selfhost/immich" },
         ]
       },
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
