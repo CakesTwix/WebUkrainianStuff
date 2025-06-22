@@ -93,7 +93,7 @@ export default defineConfig({
   },
 
   editLink: {
-    pattern: 'https://github.com/CakesTwix/WebUkrainianStuff/edit/main/web/:path',
+    pattern: 'https://codeberg.org/CakesTwix/WebUkrainianStuff/_edit/main/web/:path',
     text: 'Запропонувати зміни для цієї сторінки',
   },
 
@@ -103,18 +103,18 @@ export default defineConfig({
         items: [
           { text: "⚡ Початок", link: "/pages/qs" },
           // { text: "🌏 Сайти", link: "/pages/websites" },
-          { text: "💾 Програми", link: "/pages/software" },
-          { text: "🔑 Ліцензійне", link: "/pages/license" },
-          { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
+          // { text: "💾 Програми", link: "/pages/software" },
+          // { text: "🔑 Ліцензійне", link: "/pages/license" },
+          // { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
           // { text: "🧩 Додаткове", link: "/pages/addons" },
           { text: "🖥 Selfhost", link: "/pages/selfhost" },
-          { text: "🇯🇵 Аніме", link: "/comms/anime/dub" },
+          // { text: "🇯🇵 Аніме", link: "/comms/anime/dub" },
           { text: "🗣️ Спільноти", link: "/comms/mastodon" },
           { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
           // { text: "🗃️ Інше", link: "/pages/misc" },
         ],
       },
-      { text: "Оновлення", link: "https://github.com/CakesTwix/WebUkrainianStuff/commits/main/" },
+      { text: "Оновлення", link: "https://codeberg.org/CakesTwix/WebUkrainianStuff/commits/main/" },
     ],
 
     sidebar: [
