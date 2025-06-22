@@ -119,30 +119,35 @@ export default defineConfig({
 
     sidebar: [
       { text: "⚡ Початок", link: "/pages/qs" },
+      { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
+      // { text: "🇯🇵 Манґа", link: "/pages/manga" },
+      { text: "📡 OpenWRT", link: "/pages/openwrt" },
       // { text: "🌏 Сайти", link: "/pages/websites" },
-      { text: "💾 Програми", link: "/pages/software" },
+      /*{ text: "💾 Програми", link: "/pages/software" },
       { text: "🔑 Ліцензійне", link: "/pages/license" },
       { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
-      // { text: "🧩 Додаткове", link: "/pages/addons" },
+      { text: "🧩 Додаткове", link: "/pages/addons" },*/
       { text: "🖥 Selfhost", link: "/pages/selfhost", 
         items: [
           { text: "🖥 Залізо", link: "/pages/selfhost/hardware" },
           { text: "♻️ Альтернативи", link: "/pages/selfhost/alternatives" },
           { text: "🔎 Awesome Selfhost", link: "/pages/selfhost/search" },
-          { text: "🏚 Home Assistant", link: "/pages/selfhost/homeassistant" },
-          { text: "📷 Immich", link: "/pages/selfhost/immich" },
+          { text: "🖥 Проекти", 
+            items: [
+              { text: "🏚 Home Assistant", link: "/pages/selfhost/homeassistant" },
+              { text: "📷 Immich", link: "/pages/selfhost/immich" },]
+          },
         ]
       },
-      { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
       // { text: "🗃️ Інше", link: "/pages/misc" },
-      {
+      /*{
         text: "🇯🇵 Аніме",
         items: [
           { text: "🔊 Дабери", link: "/comms/anime/dub" },
           { text: "🔇 Саби", link: "/comms/anime/sub" },
           { text: "📖 Ранобе", link: "/comms/anime/ranobe" },
         ],
-      },
+      },*/
       {
         text: "🗣️ Спільноти",
         items: [
