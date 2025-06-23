@@ -108,7 +108,7 @@ export default defineConfig({
           // { text: "🏴‍☠️ Пиратське", link: "/pages/pirate" },
           // { text: "🧩 Додаткове", link: "/pages/addons" },
           { text: "🖥 Selfhost", link: "/pages/selfhost" },
-          // { text: "🇯🇵 Аніме", link: "/comms/anime/dub" },
+          { text: "🇯🇵 Аніме", link: "/pages/manga" },
           { text: "🗣️ Спільноти", link: "/comms/mastodon" },
           { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
           // { text: "🗃️ Інше", link: "/pages/misc" },
@@ -120,7 +120,7 @@ export default defineConfig({
     sidebar: [
       { text: "⚡ Початок", link: "/pages/qs" },
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
-      // { text: "🇯🇵 Манґа", link: "/pages/manga" },
+      { text: "🇯🇵 Аніме", link: "/pages/manga" },
       { text: "📡 OpenWRT", link: "/pages/openwrt" },
       // { text: "🌏 Сайти", link: "/pages/websites" },
       /*{ text: "💾 Програми", link: "/pages/software" },
