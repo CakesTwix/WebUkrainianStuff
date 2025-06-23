@@ -63,7 +63,7 @@ OpenWrt — операційна система для бездротових Wi
 Зручно мати історію що твориться з роутером, поки вас немає поряд чи чому роутер працює не швидко, так? Ось маємо зручний інтерфейс `luci-app-statistics`
 ![luci-app-statistics Interface](https://user-images.githubusercontent.com/6316100/154748815-0c46c2ca-c7ea-4502-b46d-421d7b2ee6b7.png)
 
-### Wake on Line
+### Wake on Lan
 Треба віддалено увімкнути сервер чи пк? Чи не хочете завантажувати застосунок? Вауля `luci-app-wol`
 
 ### BanIP
