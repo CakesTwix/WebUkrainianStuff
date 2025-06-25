@@ -102,6 +102,7 @@ export default defineConfig({
         text: "Сторінки",
         items: [
           { text: "⚡ Початок", link: "/pages/qs" },
+          { text: "👨‍🦰 Про мене", link: "/pages/me" },
           // { text: "🌏 Сайти", link: "/pages/websites" },
           // { text: "💾 Програми", link: "/pages/software" },
           // { text: "🔑 Ліцензійне", link: "/pages/license" },
@@ -119,6 +120,8 @@ export default defineConfig({
 
     sidebar: [
       { text: "⚡ Початок", link: "/pages/qs" },
+      { text: "👨‍🦰 Про мене", link: "/pages/me" },
+      { text: "🧑‍💻 Розробка сайту", link: "/pages/develop" },
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
       { text: "🇯🇵 Аніме", link: "/pages/manga" },
       { text: "📡 OpenWRT", link: "/pages/openwrt" },

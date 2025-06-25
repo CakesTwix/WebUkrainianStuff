@@ -7,6 +7,13 @@ hero:
   text: Сховище всякої інфи для українців
   tagline: Тут зібрано безліч корисної інформації, може щось знайдеш корисне для себе
   image: /ukr_logo.png
+  actions:
+    - theme: brand
+      text: Про проект
+      link: /pages/qs
+    - theme: alt
+      text: Про мене
+      link: /pages/me
 
 features:
   - title: Спільноти
