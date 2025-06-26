@@ -154,7 +154,7 @@ export default defineConfig({
       {
         text: "🗣️ Спільноти",
         items: [
-          { text: "🐘 Mastodon", link: "/comms/mastodon" },
+          { text: "🐘 Fediverse", link: "/comms/mastodon" },
           { text: "🟢 Matrix", link: "/comms/matrix" },
           { text: "💬 XMPP", link: "/comms/xmpp" },
           { text: "🎧 Інтернет-радіо", link: "/comms/internet-radio" },

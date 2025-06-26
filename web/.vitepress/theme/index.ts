@@ -10,6 +10,7 @@ import { useRoute } from 'vitepress';
 
 // Custom components
 import Banner from './components/Banner.vue'
+import FediverseStatus from './components/FediverseStatus.vue'
 
 import './styles/global.css'
 
@@ -20,6 +21,7 @@ export default {
     enhanceAppWithTabs(app)
     app.component('vImageViewer', vImageViewer);
     app.component('Banner', Banner);
+    app.component('FediverseStatus', FediverseStatus);
   },
 
   setup() {
