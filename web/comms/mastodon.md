@@ -91,6 +91,15 @@ Pleroma описується як менш роздута, ніж альтерн
 ### [**Twink.men**](https://twink.men) <FediverseStatus url="https://twink.men" />
   - initially a sharkey instance for @linkinwires but now everyone can join!
   - Адмін - @linkinwires@twink.men
+
+## GoToSocial
+GoToSocial - це сервер мережі ActivityPub, написаний на мові Golang.
+
+### [**social.matrix.co.ua**](https://social.matrix.co.ua) <FediverseStatus url="https://social.matrix.co.ua" />
+  - [Веб-інтерфейс](https://social-client.matrix.co.ua/)
+  - Адмін - @grandboss@social.matrix.co.ua
+
+
 ## Інші інстанси
 
 Якщо ви не хочете з якихось причин реєструватися на українських серверах, тоді рекомендую подивитись на список офіційних/рекомендованих серверів від Mastodon, які можна впорядкувати за місцем розташування та уподобаннями.

@@ -26,6 +26,7 @@ const colorMap = {
   sharkey: '#a259ff',
   pleroma: '#ffca28',
   akkoma: '#ff80ab',
+  gotosocial: '#b65600 ',
   unknown: '#333'
 }
 
