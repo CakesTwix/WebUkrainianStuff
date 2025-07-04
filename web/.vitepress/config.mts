@@ -143,8 +143,10 @@ export default defineConfig({
           { text: "🔎 Awesome Selfhost", link: "/pages/selfhost/search" },
           { text: "🖥 Проекти", 
             items: [
+              { text: "📼 Jellyfin", link: "/pages/selfhost/jellyfin" },
               { text: "🏚 Home Assistant", link: "/pages/selfhost/homeassistant" },
-              { text: "📷 Immich", link: "/pages/selfhost/immich" },]
+              { text: "📷 Immich", link: "/pages/selfhost/immich" },
+            ]
           },
         ]
       },
