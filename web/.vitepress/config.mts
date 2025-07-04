@@ -130,7 +130,7 @@ export default defineConfig({
       { text: "🧑‍💻 Розробка сайту", link: "/pages/develop" },
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
       { text: "🇯🇵 Аніме", link: "/pages/manga" },
-      { text: "📡 OpenWRT", link: "/pages/openwrt" },
+      { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/openwrt.svg" width=20 id="icon"> <p id="text_sidebar">OpenWRT</p>', link: "/pages/openwrt" },
       // { text: "🌏 Сайти", link: "/pages/websites" },
       /*{ text: "💾 Програми", link: "/pages/software" },
       { text: "🔑 Ліцензійне", link: "/pages/license" },
@@ -143,9 +143,9 @@ export default defineConfig({
           { text: "🔎 Awesome Selfhost", link: "/pages/selfhost/search" },
           { text: "🖥 Проекти", 
             items: [
-              { text: "📼 Jellyfin", link: "/pages/selfhost/jellyfin" },
-              { text: "🏚 Home Assistant", link: "/pages/selfhost/homeassistant" },
-              { text: "📷 Immich", link: "/pages/selfhost/immich" },
+              { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyfin.svg" width=20 id="icon"> <p id="text_sidebar">Jellyfin</p>', link: "/pages/selfhost/jellyfin" },
+              { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/home-assistant.svg" width=20 id="icon"> <p id="text_sidebar">Home Assistant</p>', link: "/pages/selfhost/homeassistant" },
+              { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/immich.svg" width=20 id="icon"> <p id="text_sidebar">Immich</p>', link: "/pages/selfhost/immich" },
             ]
           },
         ]
@@ -162,11 +162,11 @@ export default defineConfig({
       {
         text: "🗣️ Спільноти",
         items: [
-          { text: "🐘 Fediverse", link: "/comms/mastodon" },
-          { text: "🟢 Matrix", link: "/comms/matrix" },
-          { text: "💬 XMPP", link: "/comms/xmpp" },
-          { text: "📁 Блоги", link: "/comms/blogs" },
-          { text: "🎧 Інтернет-радіо", link: "/comms/internet-radio" },
+          { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fediverse.svg" width=20 id="icon"> <p id="text_sidebar">Fediverse</p>', link: "/comms/mastodon" },
+          { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/matrix.svg" width=20 id="icon"> <p id="text_sidebar">Matrix</p>', link: "/comms/matrix" },
+          { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/xmpp.svg" width=20 id="icon"> <p id="text_sidebar">XMPP</p>', link: "/comms/xmpp" },
+          { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hugo.svg" width=20 id="icon"> <p id="text_sidebar">Блоги</p>', link: "/comms/blogs" },
+          { text: '<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/iheartradio.svg" width=20 id="icon"> <p id="text_sidebar">Інтернет-Радіо</p>', link: "/comms/internet-radio" },
         ],
       },
     ],

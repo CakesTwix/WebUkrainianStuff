@@ -61,3 +61,12 @@
     --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
     --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
   }
+
+#icon, #text_sidebar {
+    display:inline; /* prevent elements from using full line block each on their own */
+}
+
+#text_sidebar {
+    line-height: 20px; /* set this to your image's height */
+    vertical-align: top; /* center the text vertically along with the image */
+}
