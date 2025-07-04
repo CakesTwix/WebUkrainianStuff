@@ -14,6 +14,12 @@ export default defineConfig({
 
   head: [
     [
+      'script',
+      {
+        src: 'https://shkey.cakestwix.com/embed.js'
+      }
+    ],
+    [
       'link',
       {
         rel: 'icon',
@@ -157,6 +163,7 @@ export default defineConfig({
           { text: "🐘 Fediverse", link: "/comms/mastodon" },
           { text: "🟢 Matrix", link: "/comms/matrix" },
           { text: "💬 XMPP", link: "/comms/xmpp" },
+          { text: "📁 Блоги", link: "/comms/blogs" },
           { text: "🎧 Інтернет-радіо", link: "/comms/internet-radio" },
         ],
       },
