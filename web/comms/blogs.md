@@ -35,6 +35,7 @@
 - #### [🇺🇦 Стендап Сьогодні](https://leonid.shevtsov.me/) | [Fediverse](https://social.shevtsov.me/@stendap_sogodni) <Badge type="tip" text="Fediverse" /> <Badge type="warning" text="RSS" />
 - #### [Kos.fm](https://kos.fm) <Badge type="warning" text="RSS" /> <Badge type="danger" text="Telegram" />
 - #### [foresle](https://foresle.github.io/forblog.live/) <Badge type="warning" text="RSS" />
+- #### [Сайт Данила aka Knightpp](https://knightpp.cc/uk-UA/) <Badge type="warning" text="RSS" />
 
 ### Технічні
 - #### [Exception.net.ua](https://exception.net.ua/) | [Fediverse](https://social.net.ua/exception) <Badge type="tip" text="Fediverse" /> <Badge type="warning" text="RSS" />
