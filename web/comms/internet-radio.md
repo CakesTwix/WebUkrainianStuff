@@ -18,5 +18,5 @@
   - Є чат в XMPP
 ### [**radio.opulus.space**](https://radio.opulus.space) <Badge type="info" text="Icecast" />
   > Інтернет-радіо opulus.space.
-### [**miliukhin.xyz**](http://miliukhin.xyz:8000/) <Badge type="info" text="Icecast" />
-  > Інтернет-радіо [Олександра Мілюхіна](https://miliukhin.neocities.org/contact/).
+### [**🧈 Маслохвиля**](http://radio.miliukhin.xyz/) <Badge type="info" text="Icecast" />
+  > Інтернет-радіо [Олександра Мілюхіна](https://miliukhin.xyz/).

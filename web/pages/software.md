@@ -22,10 +22,10 @@
 == Стрімінг
 
 - [**Cloudstream3**](https://github.com/recloudstream/cloudstream) <Badge type="info" text="Open Source" />
-  - Підтрімка плагинів ([Українські плагини](https://github.com/CakesTwix/cloudstream-extensions-uk))
+  - Підтримка плагінів ([Українські плагини](https://github.com/CakesTwix/cloudstream-extensions-uk))
   - Гарний дизайн + MD3/MY
 - [**ReVanced**](https://revanced-apks.pages.dev/) <Badge type="info" text="Open Source" />
-  - Патчінг багатьох застосунків для просмотру медіа
+  - Патчінг багатьох застосунків для перегляду медіа
   - Видаляє рекламу
 
 == Аніме
