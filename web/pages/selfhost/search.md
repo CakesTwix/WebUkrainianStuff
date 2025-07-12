@@ -15,4 +15,4 @@
 - ### [**Toloka2WebV2**](https://codeberg.org/CakesTwix/Toloka2WebV2)
   > Автоматизація завантажень нових епізодів у Jellyfin/Plex через зручний та красивий веб-інтерфейс
 - ### [**Material Toloka**](https://codeberg.org/CakesTwix/MaterialToloka)
-  > Альтернативний фрондент для толоки
+  > Альтернативний фронтенд для толоки

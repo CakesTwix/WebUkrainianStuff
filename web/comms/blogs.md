@@ -12,7 +12,7 @@
 
 <iframe src="https://shkey.cakestwix.com/embed/notes/a9ra9p10wjr600tp?border=false" data-misskey-embed-id="v1_42079889-3fd9-436c-9b4b-13ccd8b45535" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" style="margin: 0 auto; border: none; width: 100%; max-width: 500px; height: 300px; color-scheme: light dark;"></iframe>
 
-## Нащо мені власний бло?
+## Нащо мені власний блог?
 
 По-перше, це щоб записувати більш велики думки про щось, про подію, про розробку чогось, більш приватне "листування" з тими, хто цікавиться тобою. По-друге, децентралізація інтернету, впав X знову? Ну буває, а ось твій блог досі тримається та й ще можна читати у зручному застосунку завдяки RSS.
 
@@ -36,6 +36,19 @@
 - #### [Kos.fm](https://kos.fm) <Badge type="warning" text="RSS" /> <Badge type="danger" text="Telegram" />
 - #### [foresle](https://foresle.github.io/forblog.live/) <Badge type="warning" text="RSS" />
 - #### [Сайт Данила aka Knightpp](https://knightpp.cc/uk-UA/) <Badge type="warning" text="RSS" />
+- #### [Вебсайт Олександра Мілюхіна](https://miliukhin.xyz/) <Badge type="warning" text="RSS" />
+- #### [Сайт Артема Бебика](https://bebyx.co.ua/ ) <Badge type="warning" text="RSS" />
+- #### [Qugalet](https://quga.m0e.space/ua/) <Badge type="warning" text="RSS" />
+- #### [UNDLTD](https://xn--w5d.cc/) <Badge type="warning" text="RSS" />
+- #### [kastaneda.kiev.ua](https://kastaneda.kiev.ua/) <Badge type="warning" text="RSS" />
+- #### [Блог Артема Костюка](https://artkostyuk.com/) <Badge type="warning" text="RSS" />
+- #### [Сайт Владислава Шаповалова](https://shapovalov.tech/) <Badge type="warning" text="RSS" />
+- #### [tivasyk@home](https://tivasyk.codeberg.page/) <Badge type="warning" text="RSS" />
+- #### [Valentyn Domanskyi](https://www.valentyndomanskyi.com/) <Badge type="warning" text="RSS" />
 
 ### Технічні
 - #### [Exception.net.ua](https://exception.net.ua/) | [Fediverse](https://social.net.ua/exception) <Badge type="tip" text="Fediverse" /> <Badge type="warning" text="RSS" />
+- #### [blog.noleron.com](https://blog.noleron.com/) <Badge type="warning" text="RSS" />
+- #### [Dmytro Engineering](https://dmytroengineering.com/) <Badge type="warning" text="RSS" />
+- #### [microdiy.space](https://microdiy.space/)  <Badge type="warning" text="RSS" />
+- #### [Max Desiatov](https://desiatov.com/) <Badge type="warning" text="RSS" />
