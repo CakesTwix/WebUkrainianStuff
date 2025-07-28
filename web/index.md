@@ -20,6 +20,10 @@ features:
     details: Цікаві спільноти для українців
     icon: 🗣️
     link: /comms/mastodon
+  - title: Вебсайти
+    details: Онлайн-ресурси
+    icon: 🌍
+    link: /pages/websites
   - title: Selfhost
     details: Захостимо собі інтернет для своїх!
     icon: 🖥
@@ -33,4 +37,3 @@ features:
     icon: 🇺🇦
     link: /pages/charities
 ---
-
