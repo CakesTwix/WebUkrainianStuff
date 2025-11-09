@@ -140,6 +140,7 @@ export default defineConfig({
         items: [
           { text: "🖥 Залізо", link: "/pages/selfhost/hardware" },
           { text: "♻️ Альтернативи", link: "/pages/selfhost/alternatives" },
+          { text: "🌐 Proxmox", link: "/pages/selfhost/pve" },
           { text: "🔎 Awesome Selfhost", link: "/pages/selfhost/search" },
           { text: "🖥 Проекти", 
             items: [
