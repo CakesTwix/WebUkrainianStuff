@@ -28,6 +28,10 @@ features:
     details: Захостимо собі інтернет для своїх!
     icon: 🖥
     link: /pages/selfhost
+  - title: Android / LineageOS
+    details: Зроби телефон своїм!
+    icon: 🤖
+    link: /pages/android
   - title: Інтернет-радіо
     details: Радіостанції від українців
     icon: 🎧

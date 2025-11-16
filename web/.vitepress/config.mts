@@ -131,6 +131,7 @@ export default defineConfig({
       { text: "🇺🇦 Допомога Україні", link: "/pages/charities" },
       { text: "🇯🇵 Аніме", link: "/pages/manga" },
       { text: "📡 OpenWRT", link: "/pages/openwrt" },
+      { text: "🤖 Android/LineageOS", link: "/pages/android" },
       // { text: "🌏 Сайти", link: "/pages/websites" },
       /*{ text: "💾 Програми", link: "/pages/software" },
       { text: "🔑 Ліцензійне", link: "/pages/license" },
