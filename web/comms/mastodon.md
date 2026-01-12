@@ -48,6 +48,8 @@ Mastodon — це розподілена та федеративна соціа�
   > This Mastodon instance is a home for Ukrainians and supporters of Ukraine around the world.
 ### [**social.webitel.me**](https://social.webitel.me) <FediverseStatus url="https://social.webitel.me" />
   > Спільнота користувачів та розробників Webitel.
+### [**Glitchy Social**](https://mastodon.glitchy.social) <FediverseStatus url="https://mastodon.glitchy.social" />
+  > Ураїнський інстанс зі Львова. Для гіків, нердів та їх друзів. Більше інформації на [www.glitchy.social](https://www.glitchy.social/uk/)
 
 ## Akkoma
 Це форк Pleroma - програмного забезпечення для сервера мікроблогів, який може об'єднувати обмін повідомленнями з іншими серверами, що підтримують ActivityPub.
