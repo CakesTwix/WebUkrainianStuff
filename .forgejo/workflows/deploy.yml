@@ -39,13 +39,34 @@ jobs:
         run: |
           npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
           touch web/.vitepress/dist/.nojekyll
-      # Deploy to Codeberg
-      - name: Setup Go
-        uses: actions/setup-go@v3
+      - name: Upload generated files
+        uses: https://code.forgejo.org/actions/upload-artifact@v3
         with:
-          go-version: "1.21"
-
-      - name: Codeberg Pages Deploy
-        uses: https://itsblue.dev/actions/codeberg-pages-deploy@v1
+          name: Generated files
+          path: ./web/.vitepress/dist
+          include-hidden-files: true  
+  
+  deploy:
+    needs: [ build ]
+    runs-on: codeberg-tiny-lazy
+    steps:
+      - name: Clone the repository
+        uses: https://code.forgejo.org/actions/checkout@v4
         with:
-          folder: ./web/.vitepress/dist 
+          submodules: recursive
+          fetch-depth: 0
+      - name: Checkout the target branch and clean it up
+        run: |
+          git checkout pages || git switch --orphan pages && \
+          rm -Rfv $(ls -A | egrep -v '^(\.git|LICENSE)$')
+      - name: Download generated files
+        uses: https://code.forgejo.org/actions/download-artifact@v3
+        with:
+          name: Generated files
+      - name: Publish the website
+        run: |
+          git config user.email codeberg-ci && \
+          git config user.name "Codeberg CI" && \
+          git add . && \
+          git commit --allow-empty --message "Codeberg build for ${GITHUB_SHA}" && \
+          git push origin pages
