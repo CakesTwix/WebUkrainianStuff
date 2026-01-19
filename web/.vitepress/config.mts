@@ -139,7 +139,13 @@ export default defineConfig({
       { text: "🧩 Додаткове", link: "/pages/addons" },*/
       { text: "🖥 Selfhost", link: "/pages/selfhost", 
         items: [
-          { text: "🖥 Залізо", link: "/pages/selfhost/hardware" },
+          { text: "🖥 Залізо", 
+            items: [
+              { text: "🧩 Мікро ПК", link: "/pages/hardware/"},
+              { text: "📺 TV Box", link: "/pages/hardware/tvbox"},
+              { text: "🔌 Network UPS Tools", link: "/pages/hardware/ups"},
+            ] 
+          },
           { text: "♻️ Альтернативи", link: "/pages/selfhost/alternatives" },
           { text: "🌐 Proxmox", link: "/pages/selfhost/pve" },
           { text: "🔎 Awesome Selfhost", link: "/pages/selfhost/search" },
