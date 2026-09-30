@@ -45,6 +45,7 @@
 - #### [Сайт Владислава Шаповалова](https://shapovalov.tech/) <Badge type="warning" text="RSS" />
 - #### [tivasyk@home](https://tivasyk.codeberg.page/) <Badge type="warning" text="RSS" />
 - #### [Valentyn Domanskyi](https://www.valentyndomanskyi.com/) <Badge type="warning" text="RSS" />
+- #### [f1t3le](https://f1t3le.codeberg.page/) <Badge type="warning" text="RSS" />
 
 ### Технічні
 - #### [Exception.net.ua](https://exception.net.ua/) | [Fediverse](https://social.net.ua/exception) <Badge type="tip" text="Fediverse" /> <Badge type="warning" text="RSS" />
